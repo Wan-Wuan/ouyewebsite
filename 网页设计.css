@@ -93,7 +93,7 @@ select{
 .li6{
 	list-style: none;
 	text-align: center;
-	margin-left: 220px;
+	margin-left: 30px;
 	margin-top: 50px;
 }
 .sp4{
@@ -101,8 +101,9 @@ select{
 	margin-top: 680px;
 	height: 150px;
 	width: 1520px;
+	margin-left: -90px;
 }
-.sp1,.sp2,.sp3,.sp4,.sp5{
+.sp1,.sp2,.sp3,.sp4,.sp5.sp8{
 	position: absolute;
 }
 .img1{
@@ -188,4 +189,13 @@ h3{
 .p4{
 	display: inline-block;
 }
-
+.img6{
+	height: 180px;
+}
+.sp8{
+	display: inline-block;
+	margin-top: 650px;
+	margin-left: 800px;
+}
+.a6{
+	height: 160px;
