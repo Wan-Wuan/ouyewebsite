@@ -1,0 +1,191 @@
+.a1,.p1{
+	background-image:linear-gradient(0deg,chocolate,blueviolet);
+	color: white;
+	font-size: 22px;
+	height: 80px;
+	padding-top: 13px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.p1 span{
+	display: block;
+	height: 10px;
+	width: 408px;
+	margin-top: 5px;
+	margin-left: 500px;
+}
+.a1{
+	margin-left: 10px;
+}
+body{
+	width: 1600px;
+	margin: 0 auto;
+}
+select{
+	margin-top: 4px;
+	font-size: 22px;
+	background-color: beige;
+	position: absolute;
+}
+.in1{
+	height: 35px;
+	width: 450px;	
+	border-radius: 20px;
+	display: inline-block;
+	float: right;
+	margin-left: -400px;
+	margin-top: 15px;
+}
+.search button{
+	height: 42px;
+	cursor: pointer;  /*cursor属性定义了鼠标指针放在一个元素边界范围内时所用的光标形状*/
+	background: #c5464a;
+	border-radius: 0 20px 20px 0;
+	width: 60px;
+	margin-top: 15px;
+	float: right;
+	margin-right: -57px;
+	color: white;
+}
+.search button:hover {
+    background-color: #c7585c;
+}
+.a1:hover{
+	color: beige;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+.div2{
+	background: url(https://ts1.cn.mm.bing.net/th/id/R-C.ed62e7e95fa317ea42f82fe6c35829f9?rik=M1dngrpWsmMA%2bQ&riu=http%3a%2f%2fp5.qhmsg.com%2ft011754c49b77b1caf2.png&ehk=8ccyKZkoV7VihcZ0z%2b%2bx%2fWaUIRw4kHfDstSk6zCvmHg%3d&risl=&pid=ImgRaw&r=0) no-repeat;
+	background-size: 202px;
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+
+.div3{
+	border: solid 5px;
+	height: 830px;
+	border-radius: 20px;
+}
+.sp1{
+	display: inline-block;
+	margin-left: 20px;
+	width: 460px;
+	height: 700px;
+	margin: -2px 0 0 -2px;
+	margin-left: 5px;
+}
+.sp2{
+	display: inline-block;
+	width: 500px;
+	height: 700px;
+	margin-left: 480px;
+}
+.sp3{
+	display: inline-block;
+	width: 580px;
+	height: 690px;
+	margin-left: 1000px;
+	text-indent: 2em;
+	font-size: 22px;
+}
+.li6{
+	list-style: none;
+	text-align: center;
+	margin-left: 220px;
+	margin-top: 50px;
+}
+.sp4{
+	display: inline-block;
+	margin-top: 680px;
+	height: 150px;
+	width: 1520px;
+}
+.sp1,.sp2,.sp3,.sp4,.sp5{
+	position: absolute;
+}
+.img1{
+	margin-top: 10px;
+	margin-left: 5px;
+	width: 450px;
+	height: 300px;
+}
+.h1{
+	text-indent: 2em;
+}
+.p2{
+	text-indent: 2em;
+	font-size: 20px;
+	background-color: aqua;
+}
+.img2{
+	width: 500px;
+	margin-top: 5px;
+}
+.sp5{
+	margin-top: 650px;
+	height: 200px;
+	width: 65px;
+	margin-left: 1530px;
+	position:absolute;
+}
+.sp6{
+	display: block;
+	background: blanchedalmond;
+}
+.p3{
+	text-indent: 3em;
+}
+.li1{
+	font-size: 18px;
+}
+h3{
+	text-indent: 1em;
+	background-color: burlywood;
+}
+.sp3 a{
+	text-decoration: none;
+}
+.sp3 a:hover{
+	text-decoration: underline;
+	color: aquamarine;
+}
+.spimg{
+	display: inline-block;
+	width: 580px;
+	height: 310px;
+}
+.img3{
+	width: 500px;
+}
+.img4{
+	width: 60px;
+	height: 180px;
+}
+.a4{
+	padding-left: 500px;
+	color: #999;
+}
+.a5{
+	color: #999;
+}
+.img5{
+	height: 150px;
+	display: inline;
+}
+.sp7{
+	position: absolute;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	border: solid;
+	background: url(images16/qrcode_indexright_90.png) no-repeat;
+	background-size: 100px;
+	margin-left: -600px;
+	margin-top: 30px;
+}
+.p4{
+	display: inline-block;
+}
+
