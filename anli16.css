@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 微软雅黑;
+}
+body{
+	background: url(images16/bg.png) no-repeat;
+}
+.div1{
+	margin: 110px 0 0 110px;
+	width: 300px;
+	height: 200px;
+	background: url(images16/num1.png) no-repeat;
+}
+.p1,.p2{
+	padding-left: 42px;
+	
+}
+input{
+	margin-left: 42px;
+	margin-top: 10px;
+	
+}
+.div2{
+	margin-left: 110px;
+	width: 300px;
+	height: 200px;
+	background: url(images16/num2.png) no-repeat;
+}
+label{
+	font-size: 14px;
+}
+
+
