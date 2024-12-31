@@ -35,9 +35,9 @@ h1{
 	display: block;
 	width: 300px;
 	position: absolute;
+	margin-left: -800px;
 }
 .sp1 img{
 	width: 300px;
 	position: absolute;
-	margin-left: -800px;
 }
