@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div1{
+	height: 500px;
+    width: 800px;
+    border: 5px red solid;
+    margin: 0 auto;
+	background-image: linear-gradient(aqua,white,chocolate)
+}
+p{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+input{
+	margin-left: 40px;
+}
