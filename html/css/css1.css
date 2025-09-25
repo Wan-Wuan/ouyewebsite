@@ -1,0 +1,89 @@
+*{
+	padding:0; 
+	margin:0;
+	border:0;
+	}
+#header,#nav,#banner,#footer,#content{
+	width:1000px;
+	margin:5px auto;
+	background:#ccc;
+	text-align:center;
+}
+.fanhui{
+	bottom: 10px;
+	right: 0;
+	position: fixed;
+}
+.fanhui img{
+	width: 50px;
+}
+.guanggao{
+	position: fixed;
+	top: 10px;
+	z-index: 99;
+}
+.guanggao img{
+	width: 150px;
+}
+#header{
+	height:80px;
+	background-image: linear-gradient(90deg,green,white,blue);
+}
+#header img{
+	width: 140px;
+	float: left;
+	height: 80px;
+}
+#nav_top{
+	width: 100%;
+	height: 50px;
+	background: #666;
+}
+.nav_left{
+	width: 330px;
+	float: left;
+	margin: 0;
+}
+.nav_right{
+	width: 550px;
+	float: right;
+	margin: 0;
+}
+#nav span{
+	margin: 0 5px;
+	line-height: 50px;
+	display: inline-block;
+	width: 80px;
+	background: #f99;
+}
+#nav span:hover{
+	background: #cc0;
+	color: red;
+	cursor: pointer;
+}
+#header button{
+	float: right;
+	width: 50px;
+	height: 30px;
+	border-radius: 0 20px 20px 0;
+	margin-top: 20px;
+}
+#header input{
+	display: inline-block;
+	padding-top: -30px;
+	float: right;
+	margin-left: -500px;
+	width: 300px;
+	height: 30px;
+	border-radius: 20px;
+	outline: none;
+	text-indent: 1em;
+	margin-top: 20px;
+}
+h1{
+	display: inline-block;
+	color: chocolate;
+}
+
+
+
